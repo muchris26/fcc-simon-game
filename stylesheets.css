@@ -1,0 +1,27 @@
+.buttons {
+    height: 200px;
+    width: 200px;
+}
+.btn {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#r {
+    background-color: #FF0000;
+    border-top-left-radius: 200px;
+}
+
+#g {
+    background-color: #00FF00;
+    border-top-right-radius: 200px;
+}
+
+#b {
+    background-color: #0000FF;
+    border-bottom-left-radius: 200px;
+}
+#y {
+    background-color: #FFFF00;
+    border-bottom-right-radius: 200px;
+}
